@@ -25,3 +25,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 <!-- Promjena u Hakl aplikaciji>
 <!-- Promjena u Hakl aplikaciji 2>
+<!-- Promjena u Hakl aplikaciji 3>
