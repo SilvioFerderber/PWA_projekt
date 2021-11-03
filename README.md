@@ -24,3 +24,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 <!-- Promjena u Hakl aplikaciji>
+<!-- Promjena u Hakl aplikaciji 2>
