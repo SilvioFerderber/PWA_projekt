@@ -3,8 +3,12 @@
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
+  <p>
+    <div>
+      
+    </div>
+  </p>
 </template>
-
 <script>
 import HelloWorld from './components/HelloWorld.vue'
 
@@ -26,3 +30,4 @@ export default {
   margin-top: 60px;
 }
 </style>
+ //16:30, 18:00, 19:30 - a208 fsb -UTOrak     
