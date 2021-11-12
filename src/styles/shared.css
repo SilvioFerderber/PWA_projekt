@@ -1,0 +1,17 @@
+nav {
+  display: flex;
+  padding: 20px;
+  max-width: 300px;
+}
+a {
+  padding-right: 40px;
+}
+.wrapper {
+  margin: 0 auto;
+  max-width: 1200px;
+}
+.homepage{
+  background-color: #222831;
+  display: flex;
+  padding: 50px 0;
+}
